@@ -1,0 +1,6 @@
+{
+  "name": "모임 더치페이 정산기",
+  "description": "총 결제 금액, 인원수, 1차·2차 여부, 100원 단위 올림 옵션을 선택해 1인당 송금 금액과 단톡방 정산 공지 멘트를 바로 만들어주는 깔끔한 금융 스타일 더치페이 정산기입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
